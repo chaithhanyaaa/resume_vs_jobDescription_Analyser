@@ -227,15 +227,6 @@ AI-Interview-Coach/
 │── README.md
 ```
 
----
-
-# 📸 Screenshots
-
-> Add screenshots of:
-
-- Resume Analysis
-- AI Interview
-- Final Interview Report
 
 ---
 
